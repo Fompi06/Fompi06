@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fompi06
-- ✌️ I am 16 years old
+- 👦I am 16 years old
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C/C++, Embedded, Arduino, STM technologies, Python and Java
 - 💞️ I’m looking to collaborate on Google, Yandex and ???
