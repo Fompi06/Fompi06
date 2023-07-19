@@ -34,7 +34,7 @@
 ### :technologist: Обо мне :
 Я Герман, на данный момент мне 16 лет и я Intern+ программист микроконтроллеров, однако переучиваюсь на Backend-разработчика.
 
-### :hammer_and_wrench:Мои навыки:
+### :hammer_and_wrench: Мои навыки:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -48,10 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 </div>
 
-#### :pushpin:А также:
+#### :pushpin: А также:
 :satellite:На базовом уровне я знаю интерфейсы связи (I2C, UART, SPI). Разрабатывал связь плат с помощью разных протоколов (TCP/IP, HTTP, UART) и создавал свои парсеры для них. Поднимал WebServer на ESP. Работал с разными платами Arduino (Nano, Uno, Mega) и ESP (ESP01/12/32/8266, Wemos D1). Также задумывался об обучении разработке для STM32 микроконтроллеров.
 
-### :1st_place_medal:Достижения и портфолио:
+### :1st_place_medal: Достижения и портфолио:
 [Мое портфолио](https://github.com/Fompi06/Fompi06/tree/main/%D0%95%D1%81%D1%82%D1%8C%20%D1%87%D0%B5%D0%BC%20%D0%B3%D0%BE%D1%80%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F%26There%20is%20something%20to%20be%20proud%20of)
 
 ### :one:
@@ -78,6 +78,19 @@
 
 [Исходный код](https://github.com/Fompi06/Room-Assistant)
 
+### :memo: Будущие идеи
+#### :world_map: Навигатор оптимального маршута
+Никому не удивительно слышать, что в России есть платные дороги, недавно мы были в путешествии и довольно удивились, насколько быстро можно добраться из одного города в другой по этим дорогам, и... насколько это дорого! Однако, можно, например, проехать полпути по платной дороге, затем съехать на бесплатную дорогу и заплатить за это полцены. На таких дорогах есть много мест, где можно заехать и можно съехать, и у каждого цена отличается. К сожалению, навигаторы Yandex и Google не умеют рассчитывать самый быстрый маршут за определенную цену. 
+
+Цель проекта: находить самый быстрый маршут, комбинируя маршуты по платным и бесплатным дорогам, учитывая пробки и происшествия на дороге за определенную цену. Например, если пользователь хочет заплатить за проезд из одного города в другой 1000 рублей, то мой проект поможет найти самый быстрый маршут по бесплатным и платным дорогам, цена которых не должна превышать 1000 рублей.
+
+Данный проект поможет мне изучить множество Backend-технологий (Базы данных, сервера, работа с API навигаторов и карт, с API сервисов, предоставляющих цены на платные дороги и т.д.)
+
+#### :timer_clock: Виртуальный [Room Assistant](https://github.com/Fompi06/Room-Assistant)
+Проблема моего прошлого Room Assistant в том, что для его использования необходимо купить оборудование (микроконтроллер, датчики, корпус и т.д.). Я хочу переделать данный проект в мобильное и Desktop приложение, чтобы снизить порог использования мои проектом. 
+
+Данный проект поможет мне изучить, как разрабатываются мобильные и Desktop приложения, а так же подробнее изучить язык программирования Java/Qt с C++
+
 ## :eu: 
 
 ### :technologist: About me :
@@ -97,11 +110,11 @@ I'm German, I'm currently 16 years old and I'm an Intern+ microcontroller progra
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 </div>
 
-#### :pushpin:And also:
+#### :pushpin: And also:
 :satellite: At the basic level, I know communication interfaces (I2C, UART, SPI).
 Developed board communication using different communication protocols (TCP/IP, HTTP, UART) and made my own parsers for them. Raised WebServer on ESP. I worked with different Arduino boards (Nano, Uno, Mega) and ESP (ESP01/12/32/8266, Wemos D1), thought about learning to develop STM32 microcontrollers.
 
-### :1st_place_medal:Achievements and portfolio:
+### :1st_place_medal: Achievements and portfolio:
 [My portfolio](https://github.com/Fompi06/Fompi06/tree/main/%D0%95%D1%81%D1%82%D1%8C%20%D1%87%D0%B5%D0%BC%20%D0%B3%D0%BE%D1%80%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F%26There%20is%20something%20to%20be%20proud%20of)
 
 ### :one:
@@ -128,6 +141,18 @@ In the future, I will implement communication with a computer using Qt / Process
 
 [Source Code](https://github.com/Fompi06/Room-Assistant)
 
+### :memo: Future Ideas
+#### :world_map: Optimal route navigator
+No one is surprised to hear that there are toll roads in Russia, we were recently on a trip and were quite surprised how quickly you can get from one city to another along these roads, and ... how expensive it is! However, you can, for example, drive halfway on a toll road, then turn off onto a free road and pay half the price for it. On such roads there are many places where you can enter and leave, and each has a different price. Unfortunately, Yandex and Google navigators do not know how to calculate the fastest route for a certain price.
+
+The goal of the project: to find the fastest route by combining routes on toll and free roads, taking into account traffic jams and accidents on the road for a certain price. For example, if a user wants to pay 1000 rubles for travel from one city to another, then my project will help find the fastest route on free and toll roads, the price of which should not exceed 1000 rubles.
+
+This project will help me learn a lot of Backend technologies (Databases, servers, working with the API of navigators and maps, with the API of services that provide prices for toll roads, etc.)
+
+#### :timer_clock: Virtual [Room Assistant](https://github.com/Fompi06/Room-Assistant)
+The problem with my past Room Assistant is that you need to buy hardware (microcontroller, sensors, case, etc.) to use it. I want to convert this project into a mobile and desktop application in order to lower the usage threshold for my project.
+
+This project will help me learn how mobile and desktop applications are developed, as well as learn more about the Java / Qt programming language with C ++
 <!-- - 👋 Hi, I’m @Fompi06
 - 👦I am 16 years old. I am an intern embedded developer. I also want to become a backend or software developer.
 - 👀 I’m interested in programming
