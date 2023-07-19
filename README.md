@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
 </div>  
@@ -27,7 +26,7 @@
   <img src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/6KM5bfFs8LlEg7x8tS/giphy.gif" width="200" height="33"/>
+  <img src="https://media.giphy.com/media/6KM5bfFs8LlEg7x8tS/giphy.gif" width="220" height="38"/>
 </div>
 
 ---
@@ -68,9 +67,14 @@
 #### Кратко о проекте:
 Данный проект построен на Arduino и языке C++. Идея проекта заключается в помощи решения главной проблемы здоровья программистов, а именно - сидячий образ жизни. Суть проекта: оповещать человека о том, что пора размяться, прогуляться, отдохнуть от компьютера и т.д. И наоборот, оповещать о том, что человек отдыхает слишком долго и пора работать дальше.
 
-В проекте есть удобная настройка продолжительности таймеров, видов оповещений и других настроек. Также из дополнительных функций: вывод текущей температуры и влажности в воздухе с помощью датчика и ведение графиков часов, проведенных за работой в день, температур и влажностей за последние 5 дней.
+В проекте есть удобная настройка продолжительности таймеров, видов оповещений и других настроек. Также из дополнительных функций: 
++ Вывод текущей температуры и влажности в воздухе с помощью датчика 
++ Ведение графиков часов, проведенных за работой в день, температур и влажностей за последние 5 дней.
 
-В будущем я планирую реализовать связь с компьютером с помощью Qt/Processing. Также добавлю независимые таймеры, более удобное ведение графиков и получение прогноза погоды из интернета через тот же Qt/Processing.
+В будущем я планирую реализовать связь с компьютером с помощью Qt/Processing. Также добавлю:
++ Независимые таймеры
++ Более удобное ведение графиков 
++ Получение прогноза погоды из интернета через тот же Qt/Processing.
 
 [Исходный код](https://github.com/Fompi06/Room-Assistant)
 
@@ -113,9 +117,14 @@ My own project which is still in development
 #### Briefly about the project:
 This project is built on Arduino and C++. The idea of the project is to help solve the main health problem of programmers, namely, a sedentary lifestyle. The essence of the project: to notify a person that it is time to warm up, take a walk, take a break from the computer, etc. And vice versa, notify that a person is resting for too long and it's time to work on. 
 
-The project has a convenient setting for the duration of timers, types of notifications and other settings. Also from additional functions: displaying the current temperature and humidity in the air using a sensor and maintaining graphs of hours spent at work per day, temperatures and humidity for the last 5 days.
+The project has a convenient setting for the duration of timers, types of notifications and other settings. Also from additional functions: 
++ Displaying the current temperature and humidity in the air using a sensor
++ Maintaining graphs of hours spent at work per day, temperatures and humidity for the last 5 days.
 
-In the future, I will implement communication with a computer using Qt / Processing, I will also add independent timers, more convenient graphing and getting weather forecasts from the Internet through the same Qt / Processing. 
+In the future, I will implement communication with a computer using Qt / Processing, I will also add independent:
++ Timers 
++ More convenient graphing
++ Getting weather forecasts from the Internet through the same Qt / Processing. 
 
 [Source Code](https://github.com/Fompi06/Room-Assistant)
 
