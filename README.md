@@ -32,7 +32,7 @@
 ---
 ## :ru: 
 ### :technologist: Обо мне :
-Я Герман, на данный момент мне 16 лет и я Intern+ программист микроконтроллеров, однако переучиваюсь на Backend-разработчика.
+Я Герман, на данный момент мне 18 лет и я Intern+ программист микроконтроллеров, а также студент РТУ МИРЭА на направлении "Электроника и наноэлектроника".
 
 ### :hammer_and_wrench: Мои навыки:
 
@@ -94,7 +94,7 @@
 ## :eu: 
 
 ### :technologist: About me :
-I'm German, I'm currently 16 years old and I'm an Intern+ microcontroller programmer, but I'm retraining as a Backend developer.
+I am German, at the moment I am 18 years old and I am an Intern + programmer of microcontrollers, as well as a student of RTU MIREA in the field of Electronics and Nanoelectronics.
 
 ### :hammer_and_wrench:My skills:
 
