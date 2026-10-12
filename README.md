@@ -1,166 +1,124 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
-</div>  
-<br></br>
-<div id="badges" align="center">
-  <a href="https://t.me/Germankhayrullin">
-    <img src="https://img.shields.io/badge/profile-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <!-- <a href="https://t.me/CodingFompi">
-    <img src="https://img.shields.io/badge/blog-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="TelegramBlog Badge"/>
-  </a> -->
-  <a href="mailto:german.khayrullin@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
-  <a href="https://vk.com/gkhayrullin">
-    <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-  </a>
-</div>
+<h1 align="center">Герман Хайруллин</h1>
 
-<h1 align="center">
-  Привет, мир
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h3 align="center">Embedded-разработчик · STM32 · схемотехника · FPGA</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif"/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/6KM5bfFs8LlEg7x8tS/giphy.gif" width="220" height="38"/>
-</div>
+<p align="center">
+  <a href="https://t.me/Germankhayrullin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:german.khayrullin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://vk.com/gkhayrullin"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a>
+</p>
+
+<p align="center">
+  🇷🇺 Русский &nbsp;|&nbsp; <a href="#-english">🇬🇧 English (below)</a>
+</p>
 
 ---
-## :ru: 
-### :technologist: Обо мне :
-Я Герман, на данный момент мне 18 лет и я Intern+ программист микроконтроллеров, а также студент РТУ МИРЭА на направлении "Электроника и наноэлектроника".
 
-### :hammer_and_wrench: Мои навыки:
+## 👋 Обо мне
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="sourse/Esp8266_icon.jpg" title="esp" alt="esp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
-  <img src="sourse/embeddedc-plain-wordmark.png" title="EmbeddedC" alt="EmbeddedC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original-wordmark.svg" title="processing" alt="processing" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-</div>
+Студент 3 курса РТУ МИРЭА (Электроника и наноэлектроника), живу в Москве. Занимаюсь разработкой встраиваемого ПО и электроники: от схемы и печатной платы до прошивки и десктоп-приложения для работы с устройством.
 
-#### :pushpin: А также:
-:satellite:На базовом уровне я знаю интерфейсы связи (I2C, UART, SPI). Разрабатывал связь плат с помощью разных протоколов (TCP/IP, HTTP, UART) и создавал свои парсеры для них. Поднимал WebServer на ESP. Работал с разными платами Arduino (Nano, Uno, Mega) и ESP (ESP01/12/32/8266, Wemos D1). Также задумывался об обучении разработке для STM32 микроконтроллеров.
+Сейчас на практике в **НПП «Пульсар»**, где модернизирую испытательные стенды: пишу на C управляющую логику для STM32 и проектирую платы в Altium Designer.
 
-### :1st_place_medal: Достижения и портфолио:
-[Мое портфолио](https://github.com/Fompi06/Fompi06/tree/main/%D0%95%D1%81%D1%82%D1%8C%20%D1%87%D0%B5%D0%BC%20%D0%B3%D0%BE%D1%80%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F%26There%20is%20something%20to%20be%20proud%20of)
+🔎 **Ищу стажировку** в разработке встраиваемого ПО и электроники (16 часов в неделю, очно / удалённо / гибрид).
 
-### :one:
-Мы участвовали во Всероссийском конкурсе по стратоспутникам и заняли 2 место из 5 в финале. Я состоял в команде из 3-х человек и отвечал за написание почти всей прошивки для Arduino Mega и Desktop приложения, написанного на Processing. \
+## 🛠 Стек
 
-Ссылка на исходные материалы проекта и конкурса:
-[Исходный код](https://github.com/Fompi06/InsectoSputnik) \
-[Сайт конкурса](http://stratosputnik.ru/)
+| Направление | Технологии |
+|---|---|
+| **Языки** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-6E4C9F?style=flat-square) ![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white) |
+| **Микроконтроллеры** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino_(Uno/Nano/Mega)-00878F?style=flat-square&logo=arduino&logoColor=white) ![ESP](https://img.shields.io/badge/ESP8266/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
+| **Периферия и интерфейсы** | I2C · SPI · UART · ADC · таймеры · прерывания · WDT · EEPROM · LoRa · TM1637 · TCP/IP, HTTP (в т.ч. WebServer на ESP) |
+| **Электроника** | Altium Designer · EasyEDA · разводка печатных плат · принципиальные схемы · пайка и сборка |
+| **ПЛИС / FPGA** | Verilog · Vivado |
+| **Инструменты** | Git · Linux · PowerShell · Компас-3D · 3D-печать |
 
-### :two:
-Мой собственный проект, который еще находится в разработке
+## 🚀 Проекты
 
-#### Кратко о проекте:
-Данный проект построен на Arduino и языке C++. Идея проекта заключается в помощи решения главной проблемы здоровья программистов, а именно - сидячий образ жизни. Суть проекта: оповещать человека о том, что пора размяться, прогуляться, отдохнуть от компьютера и т.д. И наоборот, оповещать о том, что человек отдыхает слишком долго и пора работать дальше.
+### 🛰 [InsectoSputnik](https://github.com/Fompi06/InsectoSputnik) — CubeSat 1U для «Стратосферного спутника» (2023)
+Командный проект (3 человека), я был капитаном и программистом-электронщиком.
+- Прошивка для **Arduino Mega** на C/C++: опрос датчиков по I2C, SPI и UART, WDT и аппаратные прерывания, передача данных по LoRa и UART
+- Десктоп-приложение на **Processing** для приёма данных, управления спутником и их наглядного отображения
+- Участие в сборке и отладке электроники
+- 🏅 Призёр II степени, лига «Стратонавт-кандидат»
 
-В проекте есть удобная настройка продолжительности таймеров, видов оповещений и других настроек. Также из дополнительных функций: 
-+ Вывод текущей температуры и влажности в воздухе с помощью датчика 
-+ Ведение графиков часов, проведенных за работой в день, температур и влажностей за последние 5 дней.
+### ⏱ [Room-Assistant](https://github.com/Fompi06/Room-Assistant) — устройство против сидячего образа жизни
+Законченный pet-проект: устройство напоминает программисту, что пора размяться и отдохнуть от компьютера, и наоборот: что отдых затянулся.
+- Гибкая настройка длительности таймеров и видов оповещений
+- Датчик температуры и влажности, графики часов работы, температуры и влажности за 5 дней
+- Стек: C++, Arduino, I2C, UART, таймеры, EEPROM, WDT, энергосбережение, EasyEDA, пайка
 
-В будущем я планирую реализовать связь с компьютером с помощью Qt/Processing. Также добавлю:
-+ Независимые таймеры
-+ Более удобное ведение графиков 
-+ Получение прогноза погоды из интернета через тот же Qt/Processing.
+### 🔬 Прототип устройства для анализа вещества — НТО, «Технологическое мейкерство» (2023–2024)
+Команда «Dream Team», разработка «с нуля». Моя часть:
+- Спроектировал 3D-модель корпуса и напечатал её на 3D-принтере
+- Написал программу для Arduino Uno: опрос и обработка данных с датчиков
+- Пайка и сборка электроники (печатную плату и схему разработали в команде)
+- 🏅 Призёр заключительного этапа НТО (2024)
 
-[Исходный код](https://github.com/Fompi06/Room-Assistant)
+## 🏆 Достижения
 
-### :memo: Будущие идеи
-#### :world_map: Навигатор оптимального маршута
-Никому не удивительно слышать, что в России есть платные дороги, недавно мы были в путешествии и довольно удивились, насколько быстро можно добраться из одного города в другой по этим дорогам, и... насколько это дорого! Однако, можно, например, проехать полпути по платной дороге, затем съехать на бесплатную дорогу и заплатить за это полцены. На таких дорогах есть много мест, где можно заехать и можно съехать, и у каждого цена отличается. К сожалению, навигаторы Yandex и Google не умеют рассчитывать самый быстрый маршут за определенную цену. 
+| Год | Достижение |
+|---|---|
+| 2024 | **Призёр заключительного этапа Национальной технологической олимпиады**, профиль «Технологическое мейкерство» |
+| 2024 | **Победитель конкурса цифровых портфолио «Талант НТО»**, компетенция «Инженерия» |
+| 2023 | **Призёр II степени** Всероссийской программы «Стратосферный спутник» (Роскосмос, «Воздушно-инженерная школа»), лига «Стратонавт-кандидат» |
+| 2023 | **Призёр отборочного этапа** олимпиады «Технологическое предпринимательство», профиль «Информационные технологии» |
+| 2023 | Участник Космического чемпионата Международного аэрокосмического фестиваля |
 
-Цель проекта: находить самый быстрый маршут, комбинируя маршуты по платным и бесплатным дорогам, учитывая пробки и происшествия на дороге за определенную цену. Например, если пользователь хочет заплатить за проезд из одного города в другой 1000 рублей, то мой проект поможет найти самый быстрый маршут по бесплатным и платным дорогам, цена которых не должна превышать 1000 рублей.
+## 🎓 Образование и курсы
 
-Данный проект поможет мне изучить множество Backend-технологий (Базы данных, сервера, работа с API навигаторов и карт, с API сервисов, предоставляющих цены на платные дороги и т.д.)
+**РТУ МИРЭА** — Институт перспективных технологий и индустриального программирования, «Электроника и наноэлектроника» (2028).
 
-#### :timer_clock: Виртуальный [Room Assistant](https://github.com/Fompi06/Room-Assistant)
-Проблема моего прошлого Room Assistant в том, что для его использования необходимо купить оборудование (микроконтроллер, датчики, корпус и т.д.). Я хочу переделать данный проект в мобильное и Desktop приложение, чтобы снизить порог использования моим проектом. 
+<details>
+<summary>Дополнительное образование</summary>
 
-Данный проект поможет мне изучить, как разрабатываются мобильные и Desktop приложения, а так же подробнее изучить язык программирования Java/Qt с C++
+- **Школа синтеза цифровых схем**, YADRO, RTL-разработка (в процессе)
+- **Проектирование цифровых схем на основе программируемой логики**, РТУ МИРЭА (2025)
+- **Проектирование и программирование фемтоспутников**, Курчатов-центр, 70 ч (2023)
+- **Основы инженерно-технологического моделирования и прототипирования**, Курчатов-центр, 52 ч (2023)
+- **Умная электроника (продвинутый уровень)**, Кванториум, 144 ч (2023)
+- **Проектная деятельность**, Кванториум, 144 ч (2023)
+- **Программирование на C++**, «Код будущего», 144 ч (2023)
+- **Профессия — Белый Хакер**, CyberED / Stepik (2023)
 
-## :eu: 
+</details>
 
-### :technologist: About me :
-I am German, at the moment I am 18 years old and I am an Intern + programmer of microcontrollers, as well as a student of RTU MIREA in the field of Electronics and Nanoelectronics.
+---
 
-### :hammer_and_wrench:My skills:
+## 🇬🇧 English
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="sourse/Esp8266_icon.jpg" title="esp" alt="esp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
-  <img src="sourse/embeddedc-plain-wordmark.png" title="EmbeddedC" alt="EmbeddedC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original-wordmark.svg" title="processing" alt="processing" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-</div>
+<details>
+<summary><b>Show English version</b></summary>
 
-#### :pushpin: And also:
-:satellite: At the basic level, I know communication interfaces (I2C, UART, SPI).
-Developed board communication using different communication protocols (TCP/IP, HTTP, UART) and made my own parsers for them. Raised WebServer on ESP. I worked with different Arduino boards (Nano, Uno, Mega) and ESP (ESP01/12/32/8266, Wemos D1), thought about learning to develop STM32 microcontrollers.
+### About me
 
-### :1st_place_medal: Achievements and portfolio:
-[My portfolio](https://github.com/Fompi06/Fompi06/tree/main/%D0%95%D1%81%D1%82%D1%8C%20%D1%87%D0%B5%D0%BC%20%D0%B3%D0%BE%D1%80%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F%26There%20is%20something%20to%20be%20proud%20of)
+3rd-year student at RTU MIREA (Electronics and Nanoelectronics), based in Moscow. I work on embedded software and electronics: from schematics and PCBs to firmware and desktop apps that talk to the device.
 
-### :one:
-We participated in the All-Russian competition for stratosputniks and took 2nd place out of 5 in the final. I was part of a team of 3 people and was responsible for writing almost all the firmware for the Arduino Mega and the Desktop application written in Processing.
+I'm currently doing a practical placement at **NPP Pulsar**, where I modernize test benches: I write control logic in C for STM32 and design PCBs in Altium Designer.
 
-Link to the source materials of the project and the competition:
-[Source code](https://github.com/Fompi06/InsectoSputnik) \
-[Contest website](http://stratosputnik.ru/)
+🔎 **Looking for an internship** in embedded software and electronics (16 hours a week, on-site / remote / hybrid).
 
-### :two:
-My own project which is still in development
+### Skills
 
-#### Briefly about the project:
-This project is built on Arduino and C++. The idea of the project is to help solve the main health problem of programmers, namely, a sedentary lifestyle. The essence of the project: to notify a person that it is time to warm up, take a walk, take a break from the computer, etc. And vice versa, notify that a person is resting for too long and it's time to work on. 
+- **Languages:** C, C++, Python, Verilog, Processing
+- **MCUs:** STM32, Arduino (Uno/Nano/Mega), ESP8266/ESP32
+- **Peripherals & interfaces:** I2C, SPI, UART, ADC, timers, interrupts, WDT, EEPROM, LoRa, TM1637, TCP/IP, HTTP
+- **Electronics:** Altium Designer, EasyEDA, PCB layout, schematics, soldering
+- **FPGA:** Verilog, Vivado
+- **Tools:** Git, Linux, PowerShell, Kompas-3D, 3D printing
 
-The project has a convenient setting for the duration of timers, types of notifications and other settings. Also from additional functions: 
-+ Displaying the current temperature and humidity in the air using a sensor
-+ Maintaining graphs of hours spent at work per day, temperatures and humidity for the last 5 days.
+### Projects
 
-In the future, I will implement communication with a computer using Qt / Processing, I will also add independent:
-+ Timers 
-+ More convenient graphing
-+ Getting weather forecasts from the Internet through the same Qt / Processing. 
+- 🛰 **[InsectoSputnik](https://github.com/Fompi06/InsectoSputnik)**: 1U CubeSat for the "Stratospheric Satellite" program (2023). Team captain and firmware developer in a team of 3: Arduino Mega firmware (sensors over I2C/SPI/UART, WDT, hardware interrupts, LoRa/UART telemetry) and a Processing desktop app for receiving data and controlling the satellite. 2nd-degree prize winner, "Stratonaut-candidate" league.
+- ⏱ **[Room-Assistant](https://github.com/Fompi06/Room-Assistant)**: a finished pet project, a device that reminds programmers to take breaks (and to get back to work), with configurable timers and notifications, temperature/humidity sensing, and 5-day charts. C++, Arduino, I2C, UART, timers, EEPROM, WDT, EasyEDA.
+- 🔬 **Substance analysis prototype** (National Technology Olympiad, "Technological Makership", 2023–2024): designed and 3D-printed the enclosure, wrote the Arduino Uno sensor firmware, soldered and assembled the electronics. Prize winner of the NTO final (2024).
 
-[Source Code](https://github.com/Fompi06/Room-Assistant)
+### Achievements
 
-### :memo: Future Ideas
-#### :world_map: Optimal route navigator
-No one is surprised to hear that there are toll roads in Russia, we were recently on a trip and were quite surprised how quickly you can get from one city to another along these roads, and ... how expensive it is! However, you can, for example, drive halfway on a toll road, then turn off onto a free road and pay half the price for it. On such roads there are many places where you can enter and leave, and each has a different price. Unfortunately, Yandex and Google navigators do not know how to calculate the fastest route for a certain price.
+- 2024: Prize winner, National Technology Olympiad final ("Technological Makership")
+- 2024: Winner, "Talent NTO" digital portfolio contest ("Engineering")
+- 2023: 2nd-degree prize, "Stratospheric Satellite" (Roscosmos, Air Engineering School)
+- 2023: Prize winner, qualifying stage of the "Technological Entrepreneurship" olympiad (IT profile)
+- 2023: Participant, Space Championship at the International Aerospace Festival
 
-The goal of the project: to find the fastest route by combining routes on toll and free roads, taking into account traffic jams and accidents on the road for a certain price. For example, if a user wants to pay 1000 rubles for travel from one city to another, then my project will help find the fastest route on free and toll roads, the price of which should not exceed 1000 rubles.
-
-This project will help me learn a lot of Backend technologies (Databases, servers, working with the API of navigators and maps, with the API of services that provide prices for toll roads, etc.)
-
-#### :timer_clock: Virtual [Room Assistant](https://github.com/Fompi06/Room-Assistant)
-The problem with my past Room Assistant is that you need to buy hardware (microcontroller, sensors, case, etc.) to use it. I want to convert this project into a mobile and desktop application in order to lower the usage threshold for my project.
-
-This project will help me learn how mobile and desktop applications are developed, as well as learn more about the Java / Qt programming language with C ++
-<!-- - 👋 Hi, I’m @Fompi06
-- 👦I am 16 years old. I am an intern embedded developer. I also want to become a backend or software developer.
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C/C++, Embedded, Arduino, STM technologies, Python and Java
-- 💞️ I’m looking to collaborate on Google, Yandex and ???
-- 📫 How to reach me https://vk.com/gkhayrullin and https://t.me/Germanhairullin -->
-
-<!---
-Fompi06/Fompi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</details>
