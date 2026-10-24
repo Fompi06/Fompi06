@@ -65,6 +65,8 @@
 | 2023 | **Призёр отборочного этапа** олимпиады «Технологическое предпринимательство», профиль «Информационные технологии» |
 | 2023 | Участник Космического чемпионата Международного аэрокосмического фестиваля |
 
+📂 **[Все дипломы и сертификаты с фото →](ACHIEVEMENTS.md)**
+
 ## 🎓 Образование и курсы
 
 **РТУ МИРЭА** — Институт перспективных технологий и индустриального программирования, «Электроника и наноэлектроника» (2028).
@@ -120,5 +122,7 @@ I'm currently doing a practical placement at **NPP Pulsar**, where I modernize t
 - 2023: 2nd-degree prize, "Stratospheric Satellite" (Roscosmos, Air Engineering School)
 - 2023: Prize winner, qualifying stage of the "Technological Entrepreneurship" olympiad (IT profile)
 - 2023: Participant, Space Championship at the International Aerospace Festival
+
+📂 **[All diplomas and certificates (photos, in Russian) →](ACHIEVEMENTS.md)**
 
 </details>
